@@ -1,6 +1,6 @@
 # Raapyd-JavaScript-Task
 
-<h4>Variables </h4><br>  , ,, 
+<h4>Variables </h4><br> 
 <h4>Data types </h4><br>
 <h4>Operators </h4><br>
 <h4>Functions </h4><br>
